@@ -1,0 +1,24 @@
+# to be ignored by git
+
+*.o
+*.jpg
+*.odt#
+*.odp#
+
+# pycharm
+linux_part/.idea/
+__pycache__
+
+# jupyter
+.ipynb_checkpoints/
+
+# vs code
+.vscode/
+
+# FreeRTOS
+Debug/
+*.xml
+
+# cnn model
+*.h5
+
